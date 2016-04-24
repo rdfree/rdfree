@@ -29,9 +29,9 @@ FILTER(?bandA != ?bandB &&
 '''
 
 # GEXF
-CREATOR = 'Shankar Cabus de Teive e Argollo'
-DESCRIPTION = u'Aplicando a solucao em um dominio'
+CREATOR = 'RDFree'
+DESCRIPTION = 'A tool for transform linked data into networks formats'
 DEFAULTEDGETYPE = 'undirected'
 MODE = 'static'
-LABEL = 'Relacionamento entre linguagens de programacao'
+LABEL = 'Relacionamento entre bandas'
 
